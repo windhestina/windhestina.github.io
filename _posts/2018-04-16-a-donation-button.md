@@ -24,6 +24,10 @@ tags: ethereum web3js metamask cryptocurrency blog github-page
 </style>
 
 
+<style>
+.highlight-left {margin-left: 0}
+</style>
+
 
 
 
@@ -55,6 +59,34 @@ If you don't have MetaMask installed, please consider visiting [MetaMask](https:
 4. If you hit confirm it, I will get the 0.005 ether after this transaction is mined into the chain.
 5. Thanks!
 
+## The Embedded JavaScript
+
+The script is very simple and straightforward:
+
+{% highlight javascript %}
+<script>
+var tipButton = document.querySelector('.tip-button');
+tipButton.addEventListener('click', function() {
+  if (typeof web3 === 'undefined') {
+    return alert('You need to install MetaMask to use this feature.')
+  }
+  var user_address = web3.eth.accounts[0];
+  if (typeof user_address === 'undefined') {
+    return alert('You need to log in MetaMask to use this feature.')
+  }
+  web3.eth.sendTransaction({
+    to: "0x01eD38686432FFc8082D622A7a73c97dd4F3502b",
+    from: user_address,
+    value: web3.toWei('0.005', 'ether'),
+  }, function (err, transactionHash) {
+    if (err) return alert('Thanks for trying out!');
+    alert('Thanks for the generosity!!');
+  })
+})
+</script>
+{% endhighlight %}{: .highlight-left }
+
+
 
 Enjoy the blockchain! <img class="inline" src="/public/LQ144x144.png" alt="LQ" style="width:1.5rem;height:1.5rem;" />
 
@@ -69,17 +101,17 @@ tipButton.addEventListener('click', function() {
   if (typeof web3 === 'undefined') {
     return alert('You need to install MetaMask to use this feature.')
   }
-  var user_address = web3.eth.accounts[0]
+  var user_address = web3.eth.accounts[0];
+  if (typeof user_address === 'undefined') {
+    return alert('You need to log in MetaMask to use this feature.')
+  }
   web3.eth.sendTransaction({
     to: "0x01eD38686432FFc8082D622A7a73c97dd4F3502b",
     from: user_address,
     value: web3.toWei('0.005', 'ether'),
   }, function (err, transactionHash) {
-    if (err) return alert('Nice trying out!')
-    // If you get a transactionHash, you can assume it was sent,
-    // or if you want to guarantee it was received, you can poll
-    // for that transaction to be mined first.
-    alert('Thanks for the generosity!!')
+    if (err) return alert('Thanks for trying out!');
+    alert('Thanks for the generosity!!');
   })
 })
 </script>
