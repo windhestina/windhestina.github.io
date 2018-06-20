@@ -75,7 +75,7 @@ tipButton.addEventListener('click', function() {
     return alert('You need to log in MetaMask to use this feature.')
   }
   web3.eth.sendTransaction({
-    to: "0x01eD38686432FFc8082D622A7a73c97dd4F3502b",
+    to: "0x66454C561Cf137F53321945758b0E4645E9EEae8",
     from: user_address,
     value: web3.toWei('0.005', 'ether'),
   }, function (err, transactionHash) {
@@ -106,7 +106,7 @@ tipButton.addEventListener('click', function() {
     return alert('You need to log in MetaMask to use this feature.')
   }
   web3.eth.sendTransaction({
-    to: "0x01eD38686432FFc8082D622A7a73c97dd4F3502b",
+    to: "0x66454C561Cf137F53321945758b0E4645E9EEae8",
     from: user_address,
     value: web3.toWei('0.005', 'ether'),
   }, function (err, transactionHash) {
