@@ -18,7 +18,7 @@ I am (<span lang="zh">钱隆</span>) a Ph.D student at the Department of Compute
 
 
 ### Publication
-* **Long Qian**, Alexander Barthel, Alex Johnson, Greg Osgood, Peter Kazanzides, Nassir Navab and Bernhard Fuerst. *Comparison of Optical See-Through Head-Mounted Displays for Surgical Interventions with Object-Anchored 2D-Display*. 2017 IPCAI [@Paper](https://link.springer.com/article/10.1007/s11548-017-1564-y)
+* **Long Qian**, Alexander Barthel, Alex Johnson, Greg Osgood, Peter Kazanzides, Nassir Navab and Bernhard Fuerst. *Comparison of Optical See-Through Head-Mounted Displays for Surgical Interventions with Object-Anchored 2D-Display*. 2017 IPCAI [\[paper\]](https://link.springer.com/article/10.1007/s11548-017-1564-y)
 * Ehsan Azimi, **Long Qian**, Peter Kazanzides and Nassir Navab. *Robust Optical See-Through Head-Mounted Display Calibration:Taking Anisotropic Nature of User Interaction Errors into Account*. 2017 IEEE VR [@Paper](http://ieeexplore.ieee.org/document/7892255/)
 * Jianren Wang, **Long Qian**, Ehsan Azimi and Peter Kazanzides. *Prioritization and Static Error Compensation for Multi-camera Collaborative Tracking in Augmented Reality*. 2017 IEEE VR [@Paper](http://ieeexplore.ieee.org/document/7892313/)
 * **Long Qian**, Alexander Winkler, Bernhard Fuerst, Peter Kazanzides and Nassir Navab. *Reduction of Interaction Space in Single Point Active Alignment Method for Optical See-Through Head-Mounted Display Calibration*. 2016 ISMAR [@Paper](http://ieeexplore.ieee.org/document/7836487/) [@Poster](/public/document/poster-reduction-of-interaction-space.pdf)
