@@ -33,15 +33,16 @@ ARssist provides the following visulizations:
 
 ### Example See-Through View
 
-<p class="full-width">
+<div style="position:relative;padding-top:56.25%;">
   <iframe width="100%" src="https://www.youtube.com/embed/kiw07KA3FOs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>
 
 The above video is captured using a camera behind the HoloLens. The robotic instruments and endoscope are correctly overlaid with the help of [fiducial-tracking](https://github.com/qian256/HoloLensARToolKit), and [robot kinematics](https://github.com/jhu-dvrk/dvrk-xr). The endoscopic video (bottom right corner) is streamed to the HoloLens, and projected in the field-of-view of the virtual endoscope. The system is perfectly real-time.
 
-<p class="full-width">
-  <iframe width="100%" src="https://www.youtube.com/embed/sJt57IYuofA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+<div style="position:relative;padding-top:56.25%;">
+  <iframe src="https://www.youtube.com/embed/sJt57IYuofA" frameborder="0" allowfullscreen
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+</div>
 
 In this video, a robotic instrument is controlled by the bedside assistant, and its overlay is maintained well.
 
