@@ -9,7 +9,7 @@ title: About Me
 <blockquote class="full-width"><p>Augmented Reality Programmer, Researcher and Enthusiast</p></blockquote>
 
 
-I am Long Qian (<span lang="zh">钱隆</span>), a Ph.D student at the Department of Computer Science at [Johns Hopkins University](https://www.jhu.edu/). My research focuses are **Augmented Reality** and **Medical Robotics**, with emphasis on both scientific and engineering aspects. My supervisors are [Dr. Peter Kazanzides](https://www.cs.jhu.edu/faculty/peter-kazanzides/) and [Dr. Nassir Navab](https://www.cs.jhu.edu/faculty/nassir-navab/). Prior to my Ph.D studies, I received B.E. at [Tsinghua University](http://www.tsinghua.edu.cn/), China. [\[My CV\]](/public/document/cv.pdf)
+I am Long Qian (<span lang="zh">钱隆</span>), a Ph.D student at the Department of Computer Science at [Johns Hopkins University](https://www.jhu.edu/). My research focuses are **Augmented Reality** and **Medical Robotics**, with emphasis on both scientific and engineering aspects. My supervisors are [Dr. Peter Kazanzides](https://www.cs.jhu.edu/faculty/peter-kazanzides/) and [Dr. Nassir Navab](https://www.cs.jhu.edu/faculty/nassir-navab/). Prior to my Ph.D studies, I received B.E. at [Tsinghua University](http://www.tsinghua.edu.cn/), China. [\[CV\]](/public/document/cv.pdf)
 
 ### Education
 * Ph.D. Computer Science, Johns Hopkins University, US, 2015 – Now
@@ -19,7 +19,7 @@ I am Long Qian (<span lang="zh">钱隆</span>), a Ph.D student at the Department
 
 
 ### Publication
-* **Long Qian**, Anton Deguet and Peter Kazanzides. *dVRK-XR: Mixed Reality Extension for da Vinci Research Kit*. 2019 Hamlyn Symposium.
+* **Long Qian**, Anton Deguet and Peter Kazanzides. *dVRK-XR: Mixed Reality Extension for da Vinci Research Kit*. 2019 Hamlyn Symposium. [\[code\]](https://github.com/jhu-dvrk/dvrk-xr/)
 * **Long Qian**, Anton Deguet, Zerui Wang, Yun-Hui Liu and Peter Kazanzides. *Augmented Reality Assisted Instrument Insertion and Tool Manipulation for the First Assistant in Robotic Surgery*. 2019 ICRA [\[video\]](/public/document/video-arssist-eval.mp4)
 * **Long Qian**, Alexander Plopski, Nassir Navab and Peter Kazanzides. *Restoring the Awareness in the Occluded Visual Field for Optical See-Through Head-Mounted Displays*. 2018 ISMAR & TVCG [\[paper\]](https://ieeexplore.ieee.org/document/8456571/) [\[video\]](/public/document/video-restoring-the-awareness.mp4)
 * **Long Qian**, Anton Deguet and Peter Kazanzides. *ARssist: Augmented Reality on a Head-Mounted Display for the First Assistant in Robotic Surgery*. 2018 AE-CAI & IET HTL [\[paper\]](http://digital-library.theiet.org/content/journals/10.1049/htl.2018.5065) [\[poster\]](/public/document/poster-arssist.pdf) [\[video\]](/public/document/video-arssist.mp4)
@@ -36,8 +36,8 @@ I am Long Qian (<span lang="zh">钱隆</span>), a Ph.D student at the Department
 ### Professional Experience
 
 #### Teaching Assistant
-* Intro Programming for Scientists & Engineers, Fall 2015 [\[course\]](http://www.cs.jhu.edu/~joanne/cs112/)
 * Robot Devices, Kinematics, Dynamics, and Control, Fall 2016 [\[course\]](https://limbs.lcsr.jhu.edu/people/cowan/courses/)
+* Intro Programming for Scientists & Engineers, Fall 2015 [\[course\]](http://www.cs.jhu.edu/~joanne/cs112/)
 
 #### Guest Lecturer
 * Augmented Reality, Spring 2018 & Spring 2019 [\[course\]](https://camp.lcsr.jhu.edu/spring2019/)
@@ -49,9 +49,9 @@ I am Long Qian (<span lang="zh">钱隆</span>), a Ph.D student at the Department
 * Ethernet-Firewire Firmware for da Vinci Research Kit, 2014 [\[project\]](http://smarts.lcsr.jhu.edu/research/#Open_Source_Controller_for_da_Vinci_Research_Kit)
 
 #### Internship
-* Data Analyst and Consultant, Accenture Beijing, 2015
-* Applied Research Engineer, [Intuitive Surgical](https://www.intuitivesurgical.com/), Sunnyvale, 2017
 * Software Engineer, [Google Daydream](https://vr.google.com/daydream/), Mountain View, 2017
+* Applied Research Engineer, [Intuitive Surgical](https://www.intuitivesurgical.com/), Sunnyvale, 2017
+* Data Analyst and Consultant, Accenture Beijing, 2015
 
 
 ### Other Activities
