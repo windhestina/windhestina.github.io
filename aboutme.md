@@ -9,15 +9,18 @@ title: About Me
 <blockquote class="full-width"><p>Augmented Reality Programmer, Researcher and Enthusiast</p></blockquote>
 
 
-I am (<span lang="zh">钱隆</span>) a Ph.D student at the Department of Computer Science at [Johns Hopkins University](https://www.jhu.edu/). My research focuses are **Augmented Reality** and **Medical Robotics**, with emphasis on both scientific and engineering aspects. My supervisors are [Dr. Peter Kazanzides](https://www.cs.jhu.edu/faculty/peter-kazanzides/) and [Dr. Nassir Navab](https://www.cs.jhu.edu/faculty/nassir-navab/). Prior to my Ph.D studies, I received B.E. at [Tsinghua University](http://www.tsinghua.edu.cn/), China.
+I am Long Qian (<span lang="zh">钱隆</span>), a Ph.D student at the Department of Computer Science at [Johns Hopkins University](https://www.jhu.edu/). My research focuses are **Augmented Reality** and **Medical Robotics**, with emphasis on both scientific and engineering aspects. My supervisors are [Dr. Peter Kazanzides](https://www.cs.jhu.edu/faculty/peter-kazanzides/) and [Dr. Nassir Navab](https://www.cs.jhu.edu/faculty/nassir-navab/). Prior to my Ph.D studies, I received B.E. at [Tsinghua University](http://www.tsinghua.edu.cn/), China. [\[My CV\]](/public/document/cv.pdf)
 
 ### Education
-* B.E. Electronics Engineering, Tsinghua University, China, 2011 – 2015
-* Exchange, KTH – Royal Institute of Technology, Sweden, 2013
 * Ph.D. Computer Science, Johns Hopkins University, US, 2015 – Now
+* Visiting Scholar, Chinese University of Hong Kong, HKSAR, Jun.-Aug. 2018
+* Exchange, KTH – Royal Institute of Technology, Sweden, 2013
+* B.E. Electronics Engineering, Tsinghua University, China, 2011 – 2015
 
 
 ### Publication
+* **Long Qian**, Anton Deguet and Peter Kazanzides. *dVRK-XR: Mixed Reality Extension for da Vinci Research Kit*. 2019 Hamlyn Symposium.
+* **Long Qian**, Anton Deguet, Zerui Wang, Yun-Hui Liu and Peter Kazanzides. *Augmented Reality Assisted Instrument Insertion and Tool Manipulation for the First Assistant in Robotic Surgery*. 2019 ICRA [\[video\]](/public/document/video-arssist-eval.mp4)
 * **Long Qian**, Alexander Plopski, Nassir Navab and Peter Kazanzides. *Restoring the Awareness in the Occluded Visual Field for Optical See-Through Head-Mounted Displays*. 2018 ISMAR & TVCG [\[paper\]](https://ieeexplore.ieee.org/document/8456571/) [\[video\]](/public/document/video-restoring-the-awareness.mp4)
 * **Long Qian**, Anton Deguet and Peter Kazanzides. *ARssist: Augmented Reality on a Head-Mounted Display for the First Assistant in Robotic Surgery*. 2018 AE-CAI & IET HTL [\[paper\]](http://digital-library.theiet.org/content/journals/10.1049/htl.2018.5065) [\[poster\]](/public/document/poster-arssist.pdf) [\[video\]](/public/document/video-arssist.mp4)
 * Ehsan Azimi, Alexander Winkler, Emerson Tucker, **Long Qian**, Manyu Sharma, Jayfus Doswell, Nassir Navab and Peter Kazanzides. *Evaluation of Optical See-Through Head-Mounted Displays in Training for Critical Care and Trauma*. 2018 IEEE VR [\[paper\]](https://ieeexplore.ieee.org/abstract/document/8446583/)
@@ -35,6 +38,9 @@ I am (<span lang="zh">钱隆</span>) a Ph.D student at the Department of Compute
 #### Teaching Assistant
 * Intro Programming for Scientists & Engineers, Fall 2015 [\[course\]](http://www.cs.jhu.edu/~joanne/cs112/)
 * Robot Devices, Kinematics, Dynamics, and Control, Fall 2016 [\[course\]](https://limbs.lcsr.jhu.edu/people/cowan/courses/)
+
+#### Guest Lecturer
+* Augmented Reality, Spring 2018 & Spring 2019 [\[course\]](https://camp.lcsr.jhu.edu/spring2019/)
 
 #### Research Assistant
 * Augmented Reality for First Assistant in Robotics Surgery, 2018 Intuitive Surgical Technology Research Grant
