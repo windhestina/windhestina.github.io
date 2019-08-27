@@ -19,8 +19,9 @@ I am Long Qian (<span lang="zh">钱隆</span>), a Ph.D student at the Department
 
 
 ### Publication
+* **Long Qian**, Xiran Zhang, Anton Deguet and Peter Kazanzides. *ARAMIS: Augmented Reality Assistance for Minimally Invasive Surgery using a Head-Mounted Display*. 2019 MICCAI. **\[Oral\]**
 * **Long Qian**, Anton Deguet and Peter Kazanzides. *dVRK-XR: Mixed Reality Extension for da Vinci Research Kit*. 2019 Hamlyn Symposium. **\[Best Paper Award, 2nd place\]** [\[preprint\]](/public/document/preprint-dvrkxr.pdf) [\[code\]](https://github.com/jhu-dvrk/dvrk-xr/)
-* **Long Qian**, Anton Deguet, Zerui Wang, Yun-Hui Liu and Peter Kazanzides. *Augmented Reality Assisted Instrument Insertion and Tool Manipulation for the First Assistant in Robotic Surgery*. 2019 ICRA [\[video\]](/public/document/video-arssist-eval.mp4)
+* **Long Qian**, Anton Deguet, Zerui Wang, Yun-Hui Liu and Peter Kazanzides. *Augmented Reality Assisted Instrument Insertion and Tool Manipulation for the First Assistant in Robotic Surgery*. 2019 ICRA [\[paper\]](https://ieeexplore.ieee.org/abstract/document/8794263/) [\[video\]](/public/document/video-arssist-eval.mp4)
 * **Long Qian**, Alexander Plopski, Nassir Navab and Peter Kazanzides. *Restoring the Awareness in the Occluded Visual Field for Optical See-Through Head-Mounted Displays*. 2018 ISMAR & TVCG [\[paper\]](https://ieeexplore.ieee.org/document/8456571/) [\[video\]](/public/document/video-restoring-the-awareness.mp4)
 * **Long Qian**, Anton Deguet and Peter Kazanzides. *ARssist: Augmented Reality on a Head-Mounted Display for the First Assistant in Robotic Surgery*. 2018 AE-CAI & IET HTL **\[Outstanding Paper Award\]** [\[paper\]](http://digital-library.theiet.org/content/journals/10.1049/htl.2018.5065) [\[poster\]](/public/document/poster-arssist.pdf) [\[video\]](/public/document/video-arssist.mp4)
 * Ehsan Azimi, Alexander Winkler, Emerson Tucker, **Long Qian**, Manyu Sharma, Jayfus Doswell, Nassir Navab and Peter Kazanzides. *Evaluation of Optical See-Through Head-Mounted Displays in Training for Critical Care and Trauma*. 2018 IEEE VR [\[paper\]](https://ieeexplore.ieee.org/abstract/document/8446583/)
@@ -43,7 +44,8 @@ I am Long Qian (<span lang="zh">钱隆</span>), a Ph.D student at the Department
 * Augmented Reality, Spring 2018 & Spring 2019 [\[course\]](https://camp.lcsr.jhu.edu/spring2019/)
 
 #### Research Assistant
-* Augmented Reality for First Assistant in Robotics Surgery, 2018 Intuitive Surgical Technology Research Grant
+* Evaluation of Augmented Reality Guidance for the First Assistant, 2019 Intuitive Clinical Research Grant
+* Augmented Reality for First Assistant in Robotics Surgery, 2018 Intuitive Technology Research Grant
 * Augmented Reality for Combat Medics Training, 2015 – 2017 [\[project\]](http://smarts.lcsr.jhu.edu/research/augmented-reality-hmd-research/)
 * Calibration Methods for Optical See-Through Head-Mounted Display, 2015 – 2017 [\[project\]](http://smarts.lcsr.jhu.edu/research/augmented-reality-hmd-research/)
 * Ethernet-Firewire Firmware for da Vinci Research Kit, 2014 [\[project\]](http://smarts.lcsr.jhu.edu/research/#Open_Source_Controller_for_da_Vinci_Research_Kit)
@@ -56,6 +58,6 @@ I am Long Qian (<span lang="zh">钱隆</span>), a Ph.D student at the Department
 
 ### Other Activities
 
-I watch <i class="em em-soccer"></i> a lot, and I am a fan of [FC Barcelona](https://www.fcbarcelona.com/).
+I watch <i class="em em-soccer"></i> a lot, and I am a penya member of [FC Barcelona](https://www.fcbarcelona.com/).
 I also enjoy playing <i class="em em-tennis"></i> and <i class="em em-swimmer"></i>.
 
