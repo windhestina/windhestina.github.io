@@ -40,6 +40,8 @@ The pipeline of our system is pretty clear:
 
 The GPU of HoloLens 2 is much improved over the first generation, which could support the rendering of **MORE** points. While I was developing ARAMIS (to appear in MICCAI 2019), where a point cloud is streamed to HoloLens 1, the major performance bottleneck I identified is the visualization of points, instead of the bandwidth of streaming. HoloLens 2 perfectly solves this by offering a better GPU.
 
+The field-of-view of HoloLens 2 is great. It becomes even more obvious when I came back in the lab and put on HoloLens 1. The interaction paradigm with HoloLens 2 is completely different. It is so natural that you can interact with holograms with your intuition. The system understands your intention very well by tracking your hands.
+
 ## The Iterations
 
 We went through three development phases within the Hackathon week.
