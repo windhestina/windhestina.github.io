@@ -5,7 +5,9 @@ description: This blog describes our hackathon project "Teleporting the Expert i
 tags: augmented-reality hololens2 azure-kinect unity3d pointcloud medical computer-vision
 ---
 
-The [Medical Augmented Reality Summer School (MARSS) 2019](https://www.medicalaugmentedreality.org/) was successfully hosted in Balgrist Hospital, Zurich, during Aug 5-16. It was a two-week event. Over the second week, participants formed teams and developed medical augmented reality projects. Our team worked on the project **Teleporting the Expert Surgeon into Your OR**. It was a quite successful Hackathon project with many exciting memories, and luckily, we won the **Audience Award** of the summer school.
+The [Medical Augmented Reality Summer School (MARSS) 2019](https://www.medicalaugmentedreality.org/) was successfully hosted in Balgrist Hospital, Zurich, during Aug 5-16. 
+
+It was a two-week event. Over the second week, participants formed teams and developed medical augmented reality projects. Our team worked on the project **Teleporting the Expert Surgeon into Your OR**. It was a quite successful Hackathon project with many exciting memories, and luckily, we won the **Audience Award** of the summer school.
 
 <div style="position:relative;padding-top:56.25%;">
   <iframe width="100%" src="https://www.youtube.com/embed/Ce_H0Nw0QzQ" frameborder="0" allowfullscreen
@@ -36,7 +38,7 @@ The pipeline of our system is pretty clear:
 4. The point cloud is streamed to the HoloLens
 5. Visualize the point cloud on HoloLens.
 
-Azure Kinect provides us four depth modes: near or far, unbinned or binned. Obvisouly, we chose near unbinned mode for our application. The GPU of HoloLens 2 is much improved over the first generation, which could support the rendering of **MORE** points. While I was developing ARAMIS (to appear in MICCAI 2019), where a point cloud is streamed to HoloLens 1, the major bottleneck I identified is the visualization of points, instead of the bandwidth of streaming. HoloLens 2 perfectly solves this by offering a better GPU.
+The GPU of HoloLens 2 is much improved over the first generation, which could support the rendering of **MORE** points. While I was developing ARAMIS (to appear in MICCAI 2019), where a point cloud is streamed to HoloLens 1, the major performance bottleneck I identified is the visualization of points, instead of the bandwidth of streaming. HoloLens 2 perfectly solves this by offering a better GPU.
 
 ## The Iterations
 
@@ -53,7 +55,7 @@ In the third phase, everything got combined together, optimized and we made the 
 The last day of summer school was dedicated to demos. We saw the excitement from the faces of our audience.
 
 
-Dr. Farshad acting the expert surgeon to his fellow:
+Dr. Farshad acting the expert surgeon (he is) to his fellow:
 
 <p class="full-width">
 <img src="/public/image/marss19-demo1.png" width="80%" align="right"/>
@@ -69,7 +71,7 @@ A virtual me shaking hand with participants:
 A virtual me doing high-five with participants:
 
 <p class="full-width">
-<img src="/public/image/marss19-demo2.png" width="80%" align="right"/>
+<img src="/public/image/marss19-demo3.png" width="80%" align="right"/>
 </p>
 
 
@@ -78,16 +80,16 @@ A virtual me doing high-five with participants:
 
 I feel very lucky to work with these enthusiastic people during the summer school.
 
-We are group 14. 
-
 <p class="full-width">
 <img src="/public/image/marss19-group.png" width="80%" align="right"/>
 </p>
 
-Team mentor： [Prof. Ulrich Eck](http://campar.in.tum.de/Main/UlrichEck).
-Clinical partner: [Dr. Christian Hofsepian](https://www.linkedin.com/in/christian-hofsepian-258a4a18b)
-Industrial partner: [Dr. Federica Bogo](https://www.microsoft.com/en-us/research/people/febogo/)
-Engineering student: [Arnaud Allemang-Trivalle](https://www.linkedin.com/in/arnaud-allemang-trivalle) and me.
+We are group 14. 
+
+- Team mentor： [Prof. Ulrich Eck](http://campar.in.tum.de/Main/UlrichEck).
+- Clinical partner: [Dr. Christian Hofsepian](https://www.linkedin.com/in/christian-hofsepian-258a4a18b)
+- Industrial partner: [Dr. Federica Bogo](https://www.microsoft.com/en-us/research/people/febogo/)
+- Engineering student: [Arnaud Allemang-Trivalle](https://www.linkedin.com/in/arnaud-allemang-trivalle) and me.
 
 Thank you for reading! <img class="inline" src="/public/LQ144x144.png" alt="LQ" style="width:1.5rem;height:1.5rem;" />
 
