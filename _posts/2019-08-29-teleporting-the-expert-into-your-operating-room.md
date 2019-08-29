@@ -2,7 +2,7 @@
 layout: post
 title: Teleporting the Expert Surgeon into Your OR
 description: This blog describes our hackathon project "Teleporting the Expert into Your OR" of 2019 Medical Augmented Reality Summer School (MARSS). The summer school was hosted in Balgrist Hospital, Zurich. We use HoloLens2 to visualize a real-time point cloud generated from Azure Kinect.
-tags: augmented-reality hololens2 azure-kinect unity3d pointcloud medical computer-vision
+tags: augmented-reality hololens2 azure-kinect unity3d computer-vision
 ---
 
 The [Medical Augmented Reality Summer School (MARSS) 2019](https://www.medicalaugmentedreality.org/) was successfully hosted in Balgrist Hospital, Zurich, during Aug 5-16. 
