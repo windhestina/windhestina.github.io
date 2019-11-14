@@ -19,7 +19,8 @@ I am Long Qian (<span lang="zh">钱隆</span>), a Ph.D student at the Department
 
 
 ### Publication
-* **Long Qian**, Xiran Zhang, Anton Deguet and Peter Kazanzides. *ARAMIS: Augmented Reality Assistance for Minimally Invasive Surgery using a Head-Mounted Display*. 2019 MICCAI. **\[Oral\]**
+* **Long Qian**, Xiran Zhang, Anton Deguet and Peter Kazanzides. *ARAMIS: Augmented Reality Assistance for Minimally Invasive Surgery using a Head-Mounted Display*. 2019 MICCAI. **\[Oral\]** [\[paper\]](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_9) [\[video\]](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_9#SupplementaryMaterial) [\[poster\]](/public/document/poster-aramis.pdf)
+* Rafa Rahman, Matthew Wood, **Long Qian**, Carrie Price, Alex Johnson and Greg Osgood. *Head-Mounted Display Use in Surgery: A Systematic Review*. 2019 Surgical Innovation. [\[paper\]](https://journals.sagepub.com/doi/full/10.1177/1553350619871787)
 * **Long Qian**, Anton Deguet and Peter Kazanzides. *dVRK-XR: Mixed Reality Extension for da Vinci Research Kit*. 2019 Hamlyn Symposium. **\[Best Paper Award, 2nd place\]** [\[preprint\]](/public/document/preprint-dvrkxr.pdf) [\[code\]](https://github.com/jhu-dvrk/dvrk-xr/)
 * **Long Qian**, Anton Deguet, Zerui Wang, Yun-Hui Liu and Peter Kazanzides. *Augmented Reality Assisted Instrument Insertion and Tool Manipulation for the First Assistant in Robotic Surgery*. 2019 ICRA [\[paper\]](https://ieeexplore.ieee.org/abstract/document/8794263/) [\[video\]](/public/document/video-arssist-eval.mp4)
 * **Long Qian**, Alexander Plopski, Nassir Navab and Peter Kazanzides. *Restoring the Awareness in the Occluded Visual Field for Optical See-Through Head-Mounted Displays*. 2018 ISMAR & TVCG [\[paper\]](https://ieeexplore.ieee.org/document/8456571/) [\[video\]](/public/document/video-restoring-the-awareness.mp4)
