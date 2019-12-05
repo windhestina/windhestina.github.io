@@ -17,7 +17,10 @@ I am Long Qian (<span lang="zh">钱隆</span>), a Ph.D student at the Department
 * B.E. Electronics Engineering, Tsinghua University, China, 2011 – 2015
 
 ### Selected Publication
-* **Long Qian**, Jie Ying Wu, Simon DiMaio, Nassir Navab and Peter Kazanzides. *A Review of Augmented Reality in Robotic-Assisted Surgery*. IEEE T-MRB. [\[paper\]](https://ieeexplore.ieee.org/document/8918274) 
+
+For a full list of publication, please see [\[Google Scholar\]](https://scholar.google.com/citations?user=arq0l-IAAAAJ&hl=en).
+
+* **Long Qian**, Jie Ying Wu, Simon DiMaio, Nassir Navab and Peter Kazanzides. *A Review of Augmented Reality in Robotic-Assisted Surgery*. 2019 IEEE T-MRB. [\[paper\]](https://ieeexplore.ieee.org/document/8918274) 
 * **Long Qian**, Xiran Zhang, Anton Deguet and Peter Kazanzides. *ARAMIS: Augmented Reality Assistance for Minimally Invasive Surgery using a Head-Mounted Display*. 2019 MICCAI. **\[Oral\]** [\[paper\]](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_9) [\[video\]](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_9#SupplementaryMaterial) [\[poster\]](/public/document/poster-aramis.pdf)
 * **Long Qian**, Anton Deguet and Peter Kazanzides. *dVRK-XR: Mixed Reality Extension for da Vinci Research Kit*. 2019 Hamlyn Symposium. **\[Best Paper Award, 2nd place\]** [\[preprint\]](/public/document/preprint-dvrkxr.pdf) [\[code\]](https://github.com/jhu-dvrk/dvrk-xr/)
 * **Long Qian**, Anton Deguet, Zerui Wang, Yun-Hui Liu and Peter Kazanzides. *Augmented Reality Assisted Instrument Insertion and Tool Manipulation for the First Assistant in Robotic Surgery*. 2019 ICRA [\[paper\]](https://ieeexplore.ieee.org/abstract/document/8794263/) [\[video\]](/public/document/video-arssist-eval.mp4)
@@ -25,8 +28,6 @@ I am Long Qian (<span lang="zh">钱隆</span>), a Ph.D student at the Department
 * **Long Qian**, Anton Deguet and Peter Kazanzides. *ARssist: Augmented Reality on a Head-Mounted Display for the First Assistant in Robotic Surgery*. 2018 AE-CAI & IET HTL **\[Outstanding Paper Award\]** [\[paper\]](http://digital-library.theiet.org/content/journals/10.1049/htl.2018.5065) [\[poster\]](/public/document/poster-arssist.pdf) [\[video\]](/public/document/video-arssist.mp4)
 * Gerard Deib, Alex Johnson, Mathias Unberath, Kevin Yu, Sebastian Andress, **Long Qian**, Gregory Osgood, Nassir Navab, Ferdinand Hui and Philippe Gailloud. *Image Guided Percutaneous Spine Procedures using an Optical See-Through Head Mounted Display: Proof of Concept and Rationale*. 2018 JNIS [\[paper\]](https://jnis.bmj.com/content/early/2018/04/27/neurintsurg-2017-013649)
 * **Long Qian**, Alexander Barthel, Alex Johnson, Greg Osgood, Peter Kazanzides, Nassir Navab and Bernhard Fuerst. *Comparison of Optical See-Through Head-Mounted Displays for Surgical Interventions with Object-Anchored 2D-Display*. 2017 IPCAI [\[paper\]](https://link.springer.com/article/10.1007/s11548-017-1564-y)
-
-For a full list of publication, please see [\[Google Scholar\]](https://scholar.google.com/citations?user=arq0l-IAAAAJ&hl=en).
 
 
 ### Professional Experience
@@ -54,5 +55,6 @@ For a full list of publication, please see [\[Google Scholar\]](https://scholar.
 ### Other Activities
 
 I am a fan of <i class="em em-football"></i> [Baltimore Ravens](https://www.baltimoreravens.com/) and a penya member of <i class="em em-soccer"></i> [FC Barcelona](https://www.fcbarcelona.com/).
+
 I also enjoy playing <i class="em em-tennis"></i> and <i class="em em-swimmer"></i>.
 
