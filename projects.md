@@ -16,7 +16,7 @@ _________________
 </div>
 _________________
 
-## Augmented Reality Real-Time Telepresence
+## Real-Time Telepresence
 
 * Using Azure Kinect and Microsoft HoloLens 2
 * Audience Award (best project award) for Medical Augmented Reality Summer School 2019
