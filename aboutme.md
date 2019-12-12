@@ -9,14 +9,14 @@ title: About Me
 <blockquote class="full-width"><p>Augmented Reality Programmer, Researcher and Enthusiast</p></blockquote>
 
 
-I am Long Qian (<span lang="zh">钱隆</span>), a Ph.D student at the Department of Computer Science at [Johns Hopkins University](https://www.jhu.edu/). My research focuses are **Augmented Reality** and **Medical Robotics**, with emphasis on both scientific and engineering aspects. My supervisors are [Dr. Peter Kazanzides](https://www.cs.jhu.edu/faculty/peter-kazanzides/) and [Dr. Nassir Navab](https://www.cs.jhu.edu/faculty/nassir-navab/). Prior to my Ph.D studies, I received B.E. at Tsinghua University, China.  [\[CV\]](/public/document/cv.pdf)
+I am Long Qian (<span lang="zh">钱隆</span>), a Ph.D student at the Department of Computer Science at [Johns Hopkins University](https://www.jhu.edu/). My research focuses are **Augmented Reality** and **Medical Robotics**, with emphasis on both scientific and engineering aspects. My supervisors are [Dr. Peter Kazanzides](https://www.cs.jhu.edu/faculty/peter-kazanzides/) and [Dr. Nassir Navab](https://www.cs.jhu.edu/faculty/nassir-navab/). Prior to my Ph.D studies, I received B.E. at the Department of Electronics Engineering at Tsinghua University, China.  [\[CV\]](/public/document/cv.pdf)
 
 ### News
-* 2019/12: One paper accepted at IEEE T-MRB
-* 2019/10: Our team finished 4th place in MICCAI [SCARED challenge](https://endovissub2019-scared.grand-challenge.org/)
-* 2019/8: One paper accepted for oral presentation at MICCAI
-* 2019/8: Our project "Teleporting the Surgeon" won the Audience Award (Best Project Award) at [MARSS](https://www.medicalaugmentedreality.org/)
-* 2019/6: One paper received Honorable Mention for Best Paper Award at HSMR
+* 2019/12 --- 1 paper accepted at IEEE T-MRB
+* 2019/10 --- Our team finished 4th place in MICCAI [SCARED challenge](https://endovissub2019-scared.grand-challenge.org/)
+* 2019/8 --- 1 paper accepted for oral presentation at MICCAI
+* 2019/8 --- Our team won the Best Project Award at [MARSS](https://www.medicalaugmentedreality.org/)
+* 2019/6 --- 1 paper received Honorable Mention for Best Paper Award at HSMR
 * ......
 
 ### Selected Publication
