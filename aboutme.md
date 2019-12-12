@@ -14,12 +14,11 @@ I am Long Qian (<span lang="zh">钱隆</span>), a Ph.D student at the Department
 ### News
 * 2019/12 --- 1 paper accepted at IEEE T-MRB
 * 2019/10 --- Our team finished 4th place in MICCAI [SCARED challenge](https://endovissub2019-scared.grand-challenge.org/)
-* 2019/8 --- 1 paper accepted for oral presentation at MICCAI
-* 2019/8 --- Our team won the Best Project Award at [MARSS](https://www.medicalaugmentedreality.org/)
-* 2019/6 --- 1 paper received Honorable Mention for Best Paper Award at HSMR
-* 2019/1 --- 1 paper accepted at ICRA
+* 2019/08 --- 1 paper accepted for oral presentation at MICCAI
+* 2019/08 --- Our team won the Best Project Award at [MARSS](https://www.medicalaugmentedreality.org/)
+* 2019/06 --- 1 paper received Honorable Mention for Best Paper Award at HSMR
+* 2019/01 --- 1 paper accepted at ICRA
 * 2018/10 --- 1 paper accepted at ISMAR and IEEE TVCG
-* ......
 
 ### Selected Publication
 
