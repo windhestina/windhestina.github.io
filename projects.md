@@ -46,7 +46,7 @@ _________________
 * [Paper](https://ieeexplore.ieee.org/document/8456571) accepted for ISMAR 2018 and IEEE TVCG
 
 <div style="width: 100%; text-align: right;">
-	<video width="100%" height="100%" align="right" src="/public/video/project_restore.mp4" type="video/mp4" autoplay loop muted></video>
+	<video width="100%" height="100%" align="right" src="/public/video/project_awareness.mp4" type="video/mp4" autoplay loop muted></video>
 </div>
 _________________
 
