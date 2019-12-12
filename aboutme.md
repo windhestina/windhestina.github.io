@@ -49,6 +49,9 @@ For a full list of publication, please see [\[Google Scholar\]](https://scholar.
 * Augmented Reality, Spring 2018 & Spring 2019 [\[course\]](https://camp.lcsr.jhu.edu/spring2019/)
 
 #### Research Assistant
+
+For a list of projects, please see [\[Projects\]](http://longqian.me/projects/) page.
+
 * Evaluation of Augmented Reality Guidance for the First Assistant, 2019 Intuitive Clinical Research Grant
 * Augmented Reality for First Assistant in Robotics Surgery, 2018 Intuitive Technology Research Grant
 * Augmented Reality for Combat Medics Training, 2015 – 2017 [\[project\]](http://smarts.lcsr.jhu.edu/research/augmented-reality-hmd-research/)
