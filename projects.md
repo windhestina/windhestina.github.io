@@ -10,8 +10,6 @@ title: Projects
 * Ground Truth Cleaning (RGB and Depth alignment) based on Iterative Closest Point
 * Ranked 4th in 2019 MICCAI SCARED Challenge
 
-<video width="70%" height="70%" align="right" autoplay loop>
-  <source src="/public/video/project_scared.mp4" type="video/mp4" />
-</video>
+<video width="70%" height="100%" align="right" src="/public/video/project_scared.mp4" type="video/mp4" autoplay loop muted></video>
 
 
