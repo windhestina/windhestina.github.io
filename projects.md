@@ -3,17 +3,15 @@ layout: page
 title: Projects
 ---
 
-<script>
-  function resizeIframe(obj) {
-    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
-  }
-</script>
 
 ## Stereo Correspondence and Reconstruction of Endoscopic Image
 
 * Stereo Correpsondence based on [Pyramid Stereo Matching Network](https://github.com/JiaRenChang/PSMNet), pre-trained on Scene Flow Dataset
-* Camera pose refinement based on Iterative Closest Point
+* Ground Truth Cleaning (RGB and Depth alignment) based on Iterative Closest Point
 * Ranked 4th in 2019 MICCAI SCARED Challenge
 
-<iframe width="70%" height="70%" align="right" src="/public/video/project_scared.mp4" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>
+<video width="70%" height="70%" align="right" autoplay loop>
+  <source src="/public/video/project_scared.mp4" type="video/mp4" />
+</video>
+
 
