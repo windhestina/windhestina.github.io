@@ -12,7 +12,7 @@ _________________
 * Ranked 4th in 2019 MICCAI [SCARED Challenge](https://endovissub2019-scared.grand-challenge.org/)
 
 <div style="width: 100%; text-align: right;">
-	<video width="100%" height="100%" align="right" src="/public/video/project_scared.mp4" type="video/mp4" autoplay loop muted></video>
+	<video width="80%" height="100%" align="right" src="/public/video/project_scared.mp4" type="video/mp4" autoplay loop muted></video>
 </div>
 _________________
 
@@ -23,7 +23,7 @@ _________________
 * [More info](http://longqian.me/2019/08/29/teleporting-the-expert-into-your-operating-room/)
 
 <div style="width: 100%; text-align:right;">
-	<video width="100%" height="100%" align="right" src="/public/video/project_marss.mp4" type="video/mp4" autoplay loop muted></video>
+	<video width="80%" height="100%" align="right" src="/public/video/project_marss.mp4" type="video/mp4" autoplay loop muted></video>
 </div>
 _________________
 
@@ -57,7 +57,7 @@ _________________
 * [More info](http://longqian.me/2019/04/09/arssist-augmented-reality-in-robotic-surgery/)
 
 <div style="width: 100%; text-align: right;">
-	<video width="80%" height="100%" align="right" src="/public/video/project_arssist.mp4" type="video/mp4" autoplay loop muted></video>
+	<video width="60%" height="100%" align="right" src="/public/video/project_arssist.mp4" type="video/mp4" autoplay loop muted></video>
 </div>
 
 _________________
@@ -68,7 +68,7 @@ _________________
 * [More info](http://longqian.me/2019/06/21/dvrk-xr/)
 
 <div style="width: 100%; text-align: right;">
-	<video width="80%" height="100%" align="right" src="/public/video/project_dvrkxr.mp4" type="video/mp4" autoplay loop muted></video>
+	<video width="70%" height="100%" align="right" src="/public/video/project_dvrkxr.mp4" type="video/mp4" autoplay loop muted></video>
 </div>
 
 _________________
