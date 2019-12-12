@@ -15,5 +15,5 @@ title: Projects
 * Camera pose refinement based on Iterative Closest Point
 * Ranked 4th in 2019 MICCAI SCARED Challenge
 
-<iframe width="100%" src="/public/video/project_scared.mp4" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>
+<iframe width="70%" height="70%" align="right" src="/public/video/project_scared.mp4" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>
 
