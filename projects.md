@@ -10,7 +10,7 @@ title: Projects
 * Ground Truth Cleaning (RGB and Depth alignment) based on Iterative Closest Point
 * Ranked 4th in 2019 MICCAI [SCARED Challenge](https://endovissub2019-scared.grand-challenge.org/)
 
-<div style="width: 80%; float: right;">
+<div style="width: 80%; text-align: right;">
 	<video width="100%" height="100%" align="right" src="/public/video/project_scared.mp4" type="video/mp4" autoplay loop muted></video>
 </div>
 
@@ -20,7 +20,7 @@ title: Projects
 * Audience Award (best project award) for Medical Augmented Reality Summer School 2019
 * [More info](http://longqian.me/2019/08/29/teleporting-the-expert-into-your-operating-room/)
 
-<div style="width: 80%; float: right;">
+<div style="width: 80%; text-align:right;">
 	<video width="100%" height="100%" align="right" src="/public/video/project_marss.mp4" type="video/mp4" autoplay loop muted></video>
 </div>
 
@@ -31,7 +31,7 @@ title: Projects
 * Real-time streaming and visualization on HoloLens
 * Accepted for oral presentation at MICCAI 2019
 
-<div style="width: 95%; float: right;">
+<div style="width: 95%; text-align: right;">
 	<video width="100%" height="100%" align="right" src="/public/video/project_aramis.mp4" type="video/mp4" autoplay loop muted></video>
 </div>
 
