@@ -11,10 +11,13 @@ title: About Me
 
 I am Long Qian (<span lang="zh">钱隆</span>), a Ph.D student at the Department of Computer Science at [Johns Hopkins University](https://www.jhu.edu/). My research focuses are **Augmented Reality** and **Medical Robotics**, with emphasis on both scientific and engineering aspects. My supervisors are [Dr. Peter Kazanzides](https://www.cs.jhu.edu/faculty/peter-kazanzides/) and [Dr. Nassir Navab](https://www.cs.jhu.edu/faculty/nassir-navab/). Prior to my Ph.D studies, I received B.E. at Tsinghua University, China.  [\[CV\]](/public/document/cv.pdf)
 
-### Education
-* Ph.D. Computer Science, Johns Hopkins University, US, 2015 – Now
-* Visiting Scholar, Chinese University of Hong Kong, HKSAR, Jun.-Aug. 2018
-* B.E. Electronics Engineering, Tsinghua University, China, 2011 – 2015
+### News
+* 2019/12: One paper accepted at IEEE T-MRB
+* 2019/10: Our team finished 4th place in MICCAI [SCARED challenge](https://endovissub2019-scared.grand-challenge.org/)
+* 2019/8: One paper accepted for oral presentation at MICCAI
+* 2019/8: Our project "Teleporting the Surgeon" won the Audience Award (Best Project Award) at [MARSS](https://www.medicalaugmentedreality.org/)
+* 2019/6: One paper received Honorable Mention for Best Paper Award at HSMR
+* ......
 
 ### Selected Publication
 
