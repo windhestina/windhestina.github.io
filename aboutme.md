@@ -17,6 +17,8 @@ I am Long Qian (<span lang="zh">钱隆</span>), a Ph.D student at the Department
 * 2019/8 --- 1 paper accepted for oral presentation at MICCAI
 * 2019/8 --- Our team won the Best Project Award at [MARSS](https://www.medicalaugmentedreality.org/)
 * 2019/6 --- 1 paper received Honorable Mention for Best Paper Award at HSMR
+* 2019/1 --- 1 paper accepted at ICRA
+* 2018/10 --- 1 paper accepted at ISMAR and IEEE TVCG
 * ......
 
 ### Selected Publication
