@@ -57,7 +57,7 @@ _________________
 * [More info](http://longqian.me/2019/04/09/arssist-augmented-reality-in-robotic-surgery/)
 
 <div style="width: 100%; text-align: right;">
-	<video width="60%" height="100%" align="right" src="/public/video/project_arssist.mp4" type="video/mp4" autoplay loop muted></video>
+	<video width="70%" height="100%" align="right" src="/public/video/project_arssist.mp4" type="video/mp4" autoplay loop muted></video>
 </div>
 
 _________________
@@ -75,6 +75,37 @@ _________________
 
 
 ## Display Calibration for Optical HMDs
+
+* 3D-3D registration between the real world space and virtual space
+
+
+_________________
+
+
+## ARToolKit for HoloLens
+
+* Open source [repo](https://github.com/qian256/HoloLensARToolKit)
+* Native wrapper for ARToolKit library for UWP
+* Performance optimization for HoloLens
+* [More info](http://longqian.me/2017/01/20/artoolkit-on-hololens/)
+
+<p class="full-width">
+<img src="/public/image/artoolkit-hololens-minion-thumb.png" width="70%" align="right"/>
+</p>
+
+_________________
+
+
+## An Ethernet-to-FireWire Bridge
+
+* To ease the low-level communication for [da Vinci Research Kit]()
+
+<p class="full-width">
+<img src="/public/image/bridge.png" width="70%" align="right"/>
+</p>
+
+
+
 
 
 
