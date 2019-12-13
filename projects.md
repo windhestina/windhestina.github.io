@@ -78,7 +78,7 @@ _________________
 * 3D-3D registration between the real world space and virtual space
 
 <div style="display: inline-block;">
-	<img src="/public/image/project_calib3d.png" width="100%" align="right"/>
+<img src="/public/image/project_calib3d.png" width="100%" align="right"/>
 </div>
 
 
@@ -93,7 +93,7 @@ _________________
 * [More info about ARToolKit on HoloLens](http://longqian.me/2017/01/20/artoolkit-on-hololens/)
 
 <div style="display: inline-block;">
-	<img src="/public/image/artoolkit-hololens-minion-thumb.png" width="60%" align="right"/>
+<img src="/public/image/artoolkit-hololens-minion-thumb.png" width="60%" align="right"/>
 </div>
 
 
@@ -105,7 +105,7 @@ _________________
 * To ease the low-level communication for [da Vinci Research Kit](http://www.intuitive-foundation.org/dvrk/)
 
 <div style="display: inline-block;">
-	<img src="/public/image/bridge.png" width="60%" align="right"/>
+<img src="/public/image/bridge.png" width="60%" align="right"/>
 </div>
 
 
