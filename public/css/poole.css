@@ -124,6 +124,7 @@ p {
 }
 .full-width-clear {
   clear: right;
+  display: inline-block;
   width: 100%;
 }
 .no-margin {
