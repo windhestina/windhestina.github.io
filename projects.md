@@ -77,9 +77,7 @@ _________________
 
 * 3D-3D registration between the real world space and virtual space
 
-<p class="full-width">
-	<img src="/public/image/project_calib3d.png" width="100%" align="right"/>
-</p>
+<img src="/public/image/project_calib3d.png" width="100%" align="right"/>
 
 
 _________________
