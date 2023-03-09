@@ -6,19 +6,19 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Long Qian
-tagline:          'Long Qian'
-description:      'Reality augmented.<br>My personal blog of tech and life.'
+title:            Dietitian study log
+tagline:          'Winny Dhestina'
+description:      '식품영양학과'
 url:              http://windhestina.github.io/
 
 author:
   name:           'Winny Dhestina'
-  url:            http://windhetina.github.io/
+  url:            http://windhestina.github.io/
 
 paginate:         2
 google_analytics: 'UA-91425204-3'
 bing_seo:		  'ECA8D4503D79297E7BB223666F18CAF8'
-emailme:          mailto:lqian8@jhu.edu
+emailme:          mailto:windhestina@gmail.com
 
 gems:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
 
@@ -28,7 +28,5 @@ github:
 tags:
 
 github_username:  windhestina
-facebook_username: joe.qian
-linkedin_username: long-qian
 
 
