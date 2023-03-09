@@ -9,11 +9,11 @@ permalink:        pretty
 title:            Long Qian
 tagline:          'Long Qian'
 description:      'Reality augmented.<br>My personal blog of tech and life.'
-url:              http://longqian.me/
+url:              http://windhestina.github.io/
 
 author:
-  name:           'Long Qian'
-  url:            http://longqian.me/
+  name:           'Winny Dhestina'
+  url:            http://windhetina.github.io/
 
 paginate:         2
 google_analytics: 'UA-91425204-3'
@@ -23,11 +23,11 @@ emailme:          mailto:lqian8@jhu.edu
 gems:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
 
 github:
-  repo:           https://github.com/qian256/qian256.github.io/
+  repo:           https://github.com/windhestina/windhestina.github.io/
 
 tags:
 
-github_username:  qian256
+github_username:  windhestina
 facebook_username: joe.qian
 linkedin_username: long-qian
 
