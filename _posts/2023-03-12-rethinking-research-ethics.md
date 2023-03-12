@@ -6,8 +6,7 @@ description:
 tags: research-ethics
 ---
 
-
-# **Integrity and Respect in Research Practices**
+## **Integrity and Respect in Research Practices**
 > “Integrity is doing the right thing, even when no one is watching.”
 
 A very popular quote, well known to be said by C.S. Lewis. However, interestingly, in his personal website, it is listed as one of the quotes misattributed to his name, and stated that the quote is a paraphrased from Charles Marshall’s book titled Shattering the Glass Slipper. This reflects Lewis’ integrity and respect, not only to the original author, but also to the public. 
