@@ -1,4 +1,5 @@
-﻿---
+
+---
 layout: post
 title: Rethinking Research Ethics
 description: 
@@ -8,7 +9,7 @@ tags: research-ethics
 
 # **Integrity and Respect in Research Practices**
 > “Integrity is doing the right thing, even when no one is watching.”
-> 
+
 A very popular quote, well known to be said by C.S. Lewis. However, interestingly, in his personal website, it is listed as one of the quotes misattributed to his name, and stated that the quote is a paraphrased from Charles Marshall’s book titled Shattering the Glass Slipper. This reflects Lewis’ integrity and respect, not only to the original author, but also to the public. 
 
 In real life, especially as researchers, there will be times when we cannot avoid unintended ethical mistakes. At that times, what matters are our integrity and respect to set things right. The moment when we realize that ethical mistakes were made unintentionally, we have all the responsibilities to fix it as soon as possible, so that no one will bear any further disadvantages. 
@@ -30,5 +31,4 @@ Integrity and respect to other researchers is needed to avoid plagiarism and unj
 Finally, remembering that integrity is doing the right thing even when no one is watching might be helpful to always maintain our research integrity at all situations. **It does not have to be perfect research, but it has to be research we are confident with, because it has been done with integrity and respect.** That way, we hope that through our research, we can contribute to the improvement to human lives and the world.
 
     Understanding Research Ethics class by Professor Yong Sung Park
-
 
