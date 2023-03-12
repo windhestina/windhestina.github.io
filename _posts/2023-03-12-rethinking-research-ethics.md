@@ -1,10 +1,10 @@
-
 ---
 layout: post
 title: Rethinking Research Ethics
 description: 
 tags: research-ethics
 ---
+
 
 ## **Integrity and Respect in Research Practices**
 > “Integrity is doing the right thing, even when no one is watching.”
@@ -30,4 +30,5 @@ Integrity and respect to other researchers is needed to avoid plagiarism and unj
 Finally, remembering that integrity is doing the right thing even when no one is watching might be helpful to always maintain our research integrity at all situations. **It does not have to be perfect research, but it has to be research we are confident with, because it has been done with integrity and respect.** That way, we hope that through our research, we can contribute to the improvement to human lives and the world.
 
     Understanding Research Ethics class by Professor Yong Sung Park
+
 
