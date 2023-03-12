@@ -4,7 +4,7 @@ title: About Me
 ---
 
 
-<p class="full-width no-margin"><img src="/public/image/profile.JPG" alt="WD" style="width:16rem;height:11rem;" align="right"/></p>
+<p class="full-width no-margin"><img src="/public/image/Winny-Dhestina.jpeg" alt="WD" style="width:10rem;height:10rem;" align="right"/></p>
 
 <blockquote class="full-width"><p>Registered Dietitian and Food Enthusiast</p></blockquote>
 
